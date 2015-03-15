@@ -1,28 +1,19 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+That API setup checklist:
 
-Things you may want to cover:
+Things must do to get started :
 
-* Ruby version
+* Clone Project 
 
-* System dependencies
+* bundle install 
 
-* Configuration
+* Edit .env for enviroment files
 
-* Database creation
+* Create Database; Create Users table
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* rake db:create db:migrate 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Rails Server 
+* rails s  
