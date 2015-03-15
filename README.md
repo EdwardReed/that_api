@@ -25,7 +25,7 @@
   Pg is the Ruby interface to the PostgreSQL RDBMS - https://rubygems.org/gems/pg
 
 #\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
-#~~~~~  Get started  ~~~~~~~
+#~~~~~~~~~  Get started  ~~~~~~~
 #\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 
 ##Bundle Gems
