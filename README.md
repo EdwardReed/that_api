@@ -51,7 +51,7 @@ rake db:migrate
 ``` 
 rails s 
 ```  
-##Have some [**Javascript Pudding**](https://github.com/EdwardReed/javascript_pudding/) with That Api.
+# Bulid Away!
 ```
                                    .''.
        .''.      .        *''*    :_\/_:     .
@@ -72,4 +72,6 @@ jgs~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~-\XXXXXXXXXX/~     ~-~-~-~     /__|_\ ~-~-~-~
 ~-~-~-~-~-~    ~-~~-~-~-~-~    ========  ~-~-~-~
 ```
+##Don't forget to have some [**Javascript Pudding**](https://github.com/EdwardReed/javascript_pudding/) with That Api.
+
 ###Open to pull requests!
