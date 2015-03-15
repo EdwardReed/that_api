@@ -1,7 +1,11 @@
 
-# That API - Rails API + Devise
+#\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+#~~~~~ That API - Rails API + Devise ~~~~
+#/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
-# Gems Used:
+
+
+# Notable Gems Used:
 ## Rails-Api
   Rails for API only applications - https://github.com/rails-api/rails-api
 ## Devise
@@ -21,7 +25,9 @@
 ## PG
   Pg is the Ruby interface to the PostgreSQL RDBMS - https://rubygems.org/gems/pg
 
-# Things to do to get started :
+#\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+#~~~~~~~~~~~~  Get Started  ~~~~~~~~~~~
+#/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
 
 ##Bundle Gems
 ``` 
@@ -45,3 +51,27 @@ rake db:migrate
 ``` 
 rails s 
 ```  
+# Build Away!
+```
+                                   .''.
+       .''.      .        *''*    :_\/_:     .
+      :_\/_:   _\(/_  .:.*_\/_*   : /\ :  .'.:.'.
+  .''.: /\ :    /)\   ':'* /\ *  : '..'.  -=:o:=-
+ :_\/_:'.:::.  | ' *''*    * '.\'/.'_\(/_'.':'.'
+ : /\ : :::::  =  *_\/_*     -= o =- /)\    '  *
+  '..'  ':::' === * /\ *     .'/.\'.  ' ._____
+      *        |   *..*         :       |.   |' .---"|
+        *      |     _           .--'|  ||   | _|    |
+        *      |  .-'|       __  |   |  |    ||      |
+     .-----.   |  |' |  ||  |  | |   |  |    ||      |
+ ___'       ' /"\ |  '-."".    '-'   '-.'    '`      |____
+jgs~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  &                    ~-~-~-~-~-~-~-~-~-~   /|
+ ejm97    )      ~-~-~-~-~-~-~-~  /|~       /_|\
+        _-H-__  -~-~-~-~-~-~     /_|\    -~======-~
+~-\XXXXXXXXXX/~     ~-~-~-~     /__|_\ ~-~-~-~
+~-~-~-~-~-~    ~-~~-~-~-~-~    ========  ~-~-~-~
+```
+##Don't forget to have some [**Javascript Pudding**](https://github.com/EdwardReed/javascript_pudding/) with That Api.
+
+###Open to pull requests!
