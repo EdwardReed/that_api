@@ -5,7 +5,7 @@
 
 
 
-# Gems Used:
+# Notable Gems Used:
 ## Rails-Api
   Rails for API only applications - https://github.com/rails-api/rails-api
 ## Devise
