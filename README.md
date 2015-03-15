@@ -2,12 +2,12 @@
 
 ### Things to do to get started :
 
-Clone Project 
-
 Bundle Gems
 ``` 
 bundle install 
 ```
+
+
 
 Create Database
 ``` 
@@ -17,6 +17,9 @@ Run migration to create Users Table
 ``` 
 rake db:migrate 
 ```
+
+
+
 
 Start Rails Server 
 ``` 
