@@ -9,9 +9,13 @@ Bundle Gems
 bundle install 
 ```
 
-Create Database; Create Users table
+Create Database
 ``` 
-rake db:create db:migrate 
+rake db:create 
+```
+Run migration to create Users Table
+``` 
+rake db:migrate 
 ```
 
 Start Rails Server 
