@@ -6,14 +6,16 @@ Things must do to get started :
 
 * Clone Project 
 
-* bundle install 
+* Bundle Gems
 
-* Edit .env for enviroment files
+``` bundle install 
 
 * Create Database; Create Users table
 
-* rake db:create db:migrate 
+``` rake db:create db:migrate 
 
 
-* Rails Server 
-* rails s  
+* Start Rails Server 
+``` rails s  
+
+* Edit .env for enviroment files
