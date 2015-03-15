@@ -1,20 +1,20 @@
 
 # That API - Rails API + Devise
 
-### Things to do to get started :
+## Things to do to get started :
 
-Bundle Gems
+#Bundle Gems
 ``` 
 bundle install 
 ```
 
 
 
-Create Database
+#Create Database
 ``` 
 rake db:create 
 ```
-Run migration to create Users Table
+#Run migration to create Users Table
 ``` 
 rake db:migrate 
 ```
@@ -22,7 +22,7 @@ rake db:migrate
 
 
 
-Start Rails Server 
+##Start Rails Server 
 ``` 
 rails s 
 ```  
