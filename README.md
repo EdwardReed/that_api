@@ -1,6 +1,6 @@
 ### That API - Rails API + Devise  
 
-### Things must do to get started :
+### Things to do to get started :
 
 Clone Project 
 
