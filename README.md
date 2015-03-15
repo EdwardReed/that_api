@@ -51,7 +51,7 @@ rake db:migrate
 ``` 
 rails s 
 ```  
-# Bulid Away!
+# Build Away!
 ```
                                    .''.
        .''.      .        *''*    :_\/_:     .
