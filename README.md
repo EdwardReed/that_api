@@ -21,7 +21,7 @@
 ## PG
   Pg is the Ruby interface to the PostgreSQL RDBMS - https://rubygems.org/gems/pg
 
-# Things to do to get started :
+# Get started ->
 
 ##Bundle Gems
 ``` 
