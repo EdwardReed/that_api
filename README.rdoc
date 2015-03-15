@@ -8,14 +8,20 @@ Things must do to get started :
 
 * Bundle Gems
 
-``` bundle install ```
+``` 
+bundle install 
+```
 
 * Create Database; Create Users table
 
-``` rake db:create db:migrate ```
+``` 
+rake db:create db:migrate 
+```
 
 
 * Start Rails Server 
-``` rails s ```  
+``` 
+rails s 
+```  
 
 * Edit .env for enviroment files
