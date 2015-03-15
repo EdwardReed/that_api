@@ -14,7 +14,7 @@ bundle install
 ``` 
 rake db:create 
 ```
-#Run migration to create Users Table
+#Run DeviseCreateUsers migration
 ``` 
 rake db:migrate 
 ```
