@@ -51,7 +51,7 @@ rake db:migrate
 ``` 
 rails s 
 ```  
-#Have some [**Javascript Pudding**](https://github.com/EdwardReed/javascript_pudding/) with That Api.
+##Have some [**Javascript Pudding**](https://github.com/EdwardReed/javascript_pudding/) with That Api.
 ```
                                    .''.
        .''.      .        *''*    :_\/_:     .
