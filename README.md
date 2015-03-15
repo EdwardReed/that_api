@@ -11,27 +11,27 @@
 ## Dot Env 
   Edit .env for enviroment files
 
-## Things to do to get started :
+# Things to do to get started :
 
-#Bundle Gems
+##Bundle Gems
 ``` 
 bundle install 
 ```
 
 
 
-#Create Database
+###Create Database
 ``` 
 rake db:create 
 ```
-#Run DeviseCreateUsers migration
+###Run DeviseCreateUsers migration
 ``` 
 rake db:migrate 
 ```
 
 
 
-##Start Rails Server 
+###Start Rails Server 
 ``` 
 rails s 
 ```  
