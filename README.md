@@ -1,27 +1,22 @@
-### README
+### That API - Rails API + Devise  
 
-That API setup checklist:
+### Things must do to get started :
 
-Things must do to get started :
+Clone Project 
 
-* Clone Project 
-
-* Bundle Gems
-
+Bundle Gems
 ``` 
 bundle install 
 ```
 
-* Create Database; Create Users table
-
+Create Database; Create Users table
 ``` 
 rake db:create db:migrate 
 ```
 
-
-* Start Rails Server 
+Start Rails Server 
 ``` 
 rails s 
 ```  
 
-* Edit .env for enviroment files
+Edit .env for enviroment files
