@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 
-gem 'rails', '4.2.0.beta1'
+gem 'rails', '>=4.2'
 
 gem 'rails-api'
 
@@ -20,9 +20,11 @@ gem 'multi_json'
 gem 'unicorn'
 
 # Server Side Authentication
+gem 'omniauth'
 gem 'devise', git: 'https://github.com/plataformatec/devise.git', branch: 'lm-rails-4-2'
+gem 'devise_token_auth', git: 'https://github.com/lynndylanhurley/devise_token_auth.git'
 
-gem 'arel', '6.0.0.beta2'
+gem 'arel'
 # Deploy with Capistrano
 # gem 'capistrano', :group => :development
 
