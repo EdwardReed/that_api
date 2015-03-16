@@ -35,6 +35,12 @@ bundle install
 ```
 
 
+##Create .env with
+``` 
+ORIGIN_URL='localhost'
+```
+Remember to add this Environment variable to production server for CORs support.
+The development server will use this variable for CORs support.
 
 ###Create Database
 ``` 
