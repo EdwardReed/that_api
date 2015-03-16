@@ -35,7 +35,7 @@ bundle install
 ```
 
 
-##Create .env with
+##Create a .env with
 ``` 
 ORIGIN_URL='localhost'
 ```
