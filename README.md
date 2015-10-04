@@ -1,9 +1,4 @@
-
-#\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
-#~~~~~ That API - Rails API + Devise ~~~~
-#/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
-
-
+#That API - Rails API + Devise
 
 # Notable Gems Used:
 ## Rails-Api
@@ -25,9 +20,7 @@
 ## PG
   Pg is the Ruby interface to the PostgreSQL RDBMS - https://rubygems.org/gems/pg
 
-#\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
-#~~~~~~~~~~~~  Get Started  ~~~~~~~~~~~
-#/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+#Get Started
 
 ##Bundle Gems
 ``` 
